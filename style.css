@@ -67,6 +67,7 @@ ul {
 li {
     color: white;
     font-weight: bold;
+    cursor: pointer;
 }
 
 li+li {
